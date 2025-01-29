@@ -32,17 +32,17 @@ We enthusiastically welcome contributions to improve Toogether. Here’s how you
 
 1. **Fork** the repository.
 2. Create a branch for your feature or fix:
-   ```bash
-   git checkout -b my-new-feature
-   ```
+```bash
+git checkout -b my-new-feature
+```
 3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add an amazing feature"
-   ```
+```bash
+git commit -m "Add an amazing feature"
+```
 4. Push the branch to your fork:
-   ```bash
-   git push origin my-new-feature
-   ```
+```bash
+git push origin my-new-feature
+```
 5. Create a **Pull Request** in the main repository.
 
 ---
